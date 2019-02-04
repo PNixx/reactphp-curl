@@ -5,7 +5,7 @@
     "license": "None",
     "require": {
         "php": ">=5.4.0",
-
+        "ext-curl": "*",
         "react/promise": "~2.0",
         "react/event-loop": "*",
         "khr/php-mcurl-client": "3.*"
